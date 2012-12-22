@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="weiboDesign"
+  id="myeclipse.1355655273890"
+  context-root="/weiboDesign"
+  j2ee-spec="5.0"
+  archive="weiboDesign.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
